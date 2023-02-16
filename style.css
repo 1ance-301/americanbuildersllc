@@ -1,0 +1,14 @@
+:root {
+    --primary: #5f5450;
+    --secondary:;
+    --tertiary: #dfd4cc;
+}
+
+* {
+    background: var(--tertiary);
+}
+
+h1 {
+    font-size: 72px;
+    color: var(--primary);
+}
