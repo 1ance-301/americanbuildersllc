@@ -1,11 +1,12 @@
 :root {
     --primary: #5f5450;
-    --secondary:;
+    --secondary:#eace98;
     --tertiary: #dfd4cc;
 }
 
 * {
     background: var(--tertiary);
+    font-family: 'Nunito', sans-serif;
 }
 
 h1 {
