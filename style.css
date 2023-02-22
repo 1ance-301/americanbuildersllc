@@ -55,8 +55,8 @@ li {
     column-count: 2;
 }
 
-/* Large devices (laptops/desktops, 992px and up) */
-@media only screen and (min-width: 992px) {
+/* Large devices (laptops/desktops, 992px to 1500px) */
+@media only screen and (min-width: 992px) and (max-width: 1500px) {
     * {
         margin: 16px 10rem 0;
     }
